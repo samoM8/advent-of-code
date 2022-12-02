@@ -8,7 +8,7 @@ def readFile(fileName) -> str:
     return data
 
 def part1():
-    data = readFile("inputs/input1_1.txt")
+    data = readFile("inputs/input1.txt")
     caloriesPacks = data.split("\n\n")
     highestCalories = 0
     for caloriePack in caloriesPacks:
@@ -20,7 +20,7 @@ def part1():
     return highestCalories
 
 def part2():
-    data = readFile("inputs/input1_1.txt")
+    data = readFile("inputs/input1.txt")
     caloriesPacks = data.split("\n\n")
     
     caloriesSum = []
