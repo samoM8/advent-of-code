@@ -9,10 +9,10 @@ This is a collection of Advent of Code problems solved using Python programming 
 
 | Puzzle | Kristjan | Gasper | Samo |
 |--------|----------|--------|------|
-| 1  |  | :star: :star: | :star: :star: |
-| 2  |  |  | :star: :star: |
-| 3  |  |  | :star: :star: |
-| 4  |  |  | :star: :star: |
+| 1  | :star: :star: | :star: :star: | :star: :star: |
+| 2  | :star: :star: |  | :star: :star: |
+| 3  | :star: :star: |  | :star: :star: |
+| 4  | :star: :star: |  | :star: :star: |
 | 5  |  |  |  |
 | 6  |  |  |  |
 | 7  |  |  |  |
