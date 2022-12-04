@@ -11,8 +11,8 @@ This is a collection of Advent of Code problems solved using Python programming 
 |--------|----------|--------|------|
 | 1  |  | :star: :star: | :star: :star: |
 | 2  |  |  | :star: :star: |
-| 3  |  |  |  |
-| 4  |  |  |  |
+| 3  |  |  | :star: :star: |
+| 4  |  |  | :star: :star: |
 | 5  |  |  |  |
 | 6  |  |  |  |
 | 7  |  |  |  |
