@@ -1,7 +1,7 @@
 import os
 
 def readLines(fileName: str) -> list:
-    return [line[:len(line)-1] for line in open(os.path.join(os.path.dirname(__file__), fileName), "r")]
+    return [line.rstrip("\n") for line in open(os.path.join(os.path.dirname(__file__), fileName), "r")]
 
 RUCKSACK_ITEMS = "_abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
