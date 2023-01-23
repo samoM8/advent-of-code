@@ -1,6 +1,5 @@
 import os
 import re
-import numpy as np
 
 def readLines(fileName: str) -> list:
     file = open(os.path.join(os.path.dirname(__file__), fileName), "r")
@@ -8,7 +7,7 @@ def readLines(fileName: str) -> list:
     file.close()
     return lines
 
-
+# stupid solution, part 2 is much better
 def part1() -> int:
     moves = readLines("inputs/input9.txt")
     positions = set()
