@@ -15,7 +15,7 @@ This is a collection of Advent of Code problems solved using Python programming 
 | 4  | :star: :star: |  | :star: :star: |
 | 5  |  |  | :star: :star: |
 | 6  |  |  | :star: :star: |
-| 7  |  |  |  |
+| 7  |  |  | :star: :star: |
 | 8  |  |  | :star: :star: |
 | 9  |  |  | :star: :star: |
 | 10 |  |  |  |
