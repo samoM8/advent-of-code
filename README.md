@@ -19,7 +19,7 @@ This is a collection of Advent of Code problems solved using Python programming 
 | 8  |  |  | :star: :star: |
 | 9  |  |  | :star: :star: |
 | 10 |  |  | :star: :star: |
-| 11 |  |  |  |
+| 11 |  |  | :star: :star: |
 | 12 |  |  |  |
 | 13 |  |  |  |
 | 14 |  |  |  |
