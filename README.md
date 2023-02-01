@@ -23,7 +23,7 @@ This is a collection of Advent of Code problems solved using Python programming 
 | 12 |  |  | :star: :star: |
 | 13 |  |  | :star: :star: |
 | 14 |  |  | :star: :star: |
-| 15 |  |  |  |
+| 15 |  |  | :star: :star: |
 | 16 |  |  |  |
 | 17 |  |  |  |
 | 18 |  |  |  |
