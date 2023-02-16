@@ -53,7 +53,7 @@ def part1() -> int:
     start = (startArr[0][0], startArr[1][0])
     end = (endArr[0][0], endArr[1][0])
 
-    # Solving with Breaths First Search
+    # Solving with Breadth First Search
     # Could use a hevristic which would speed up the solution
     # Something like distance to end or just A* algorithm
     positions = deque()
@@ -101,8 +101,8 @@ def part2() -> int:
 
     lowestSteps = 1000000
     # Check for all starting positions
-    # It would be better if i went from end and finished when i
-    # move to the first elevations 'a', this would be faster
+    # It would be better if I went from end position and finished at
+    # first elevations 'a', this would be faster
     for i in range(len(startArr[0])):
         visitedMap = np.zeros((len(heightMap), len(heightMap[0])), np.uint8)
         start = (startArr[0][i], startArr[1][i])
