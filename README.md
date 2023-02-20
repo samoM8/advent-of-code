@@ -7,6 +7,8 @@ This is a collection of Advent of Code problems solved using Python programming 
 
 :star: :star: - first and second part finished
 
+:disappointed: - puzzle solved, but with help
+
 | Puzzle | Kristjan | Gasper | Samo |
 |--------|----------|--------|------|
 | 1  | :star: :star: | :star: :star: | :star: :star: |
@@ -23,9 +25,9 @@ This is a collection of Advent of Code problems solved using Python programming 
 | 12 |  |  | :star: :star: |
 | 13 |  |  | :star: :star: |
 | 14 |  |  | :star: :star: |
-| 15 |  |  | :star: :star: |
+| 15 |  |  | :star: :disappointed: |
 | 16 |  |  |  |
-| 17 |  |  |  |
+| 17 |  |  | :star:  |
 | 18 |  |  |  |
 | 19 |  |  |  |
 | 20 |  |  |  |
