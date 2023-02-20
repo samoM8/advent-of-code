@@ -10,13 +10,6 @@ def read_jet_pattern(file_name: str) -> list:
     return jet_pattern
 
 
-def printScanScreen(scan: np.array) -> None:
-    for line in scan:
-        for dot in line:
-            print(dot.decode("utf-8"), end="")
-        print()
-
-
 def check_rock_sides(next_pos: tuple, rock_shape: list, rock_tower: np.array) -> bool:
     """
     Checks the whole rock shape if there is any conflict with next movement.\n
