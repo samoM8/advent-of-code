@@ -31,7 +31,7 @@ This is a collection of Advent of Code problems solved using Python programming 
 | 18 |  |  | :star: :star: |
 | 19 |  |  |  |
 | 20 |  |  | :star: :star: |
-| 21 |  |  |  |
+| 21 |  |  | :star: :star: |
 | 22 |  |  |  |
 | 23 |  |  |  |
 | 24 |  |  |  |
