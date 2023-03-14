@@ -32,7 +32,7 @@ This is a collection of Advent of Code problems solved using Python programming 
 | 19 |  |  |  |
 | 20 |  |  | :star: :star: |
 | 21 |  |  | :star: :star: |
-| 22 |  |  |  |
+| 22 |  |  | :star: |
 | 23 |  |  |  |
 | 24 |  |  |  |
 | 25 |  |  |  |
