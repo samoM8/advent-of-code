@@ -12,10 +12,7 @@ def readLines(file_name: str) -> list:
 def printBoard(b: np.array) -> None:
     for line in b:
         for dot in line:
-            if dot:
-                print(dot.decode("utf-8"), end="")
-            else:
-                print(" ", end="")
+            print(dot, end="")
         print()
 
 
