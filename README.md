@@ -34,5 +34,5 @@ This is a collection of Advent of Code problems solved using Python programming 
 | 21 |  | :star: :star: |
 | 22 |  | :star: |
 | 23 |  | :star: :star: |
-| 24 |  |  |
+| 24 |  | :star: :star: |
 | 25 |  |  |
